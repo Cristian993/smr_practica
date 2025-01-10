@@ -1,2 +1,2 @@
 # Hola SMR
-## Hola
+Esto es una prueba
